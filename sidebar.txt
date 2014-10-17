@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gyr:home|Door43 (gyr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gyr|d43-gyr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gyr/archive/master.zip|d43-gyr.zip]]
+
+**Recent Changes**
+{{changes>ns = gyr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gyr|Ethnologue data]]
+
